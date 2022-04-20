@@ -107,8 +107,8 @@ In our project we used:
 
 ## Our team
 
+- Alexander [@LinkedIn](https://www.linkedin.com/in/alexander-zhibul/) - alexanderzhibul@mail.ru
 - Aleksey - [@linkedIn](https://www.linkedin.com/in/aleksey-tsygan-978a6a228/) - newrety1996@gmail.com
-- Alexander [Zhibul-Alexander](https://github.com/Zhibul-Alexander) - alexanderzhibul@mail.ru
 - Kirill [Kirill-Bukin](https://github.com/Kirill-Bukin)
 - Kate [Kate-Levchuk](https://github.com/Kate-Levchuk)
 
