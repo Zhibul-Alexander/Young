@@ -2,7 +2,7 @@
 
   <h1 align="center">WILDBERRIES</h1>
 
-<p align="center"><a href="https://tsygan-aleksey.github.io/youngBerries/">Watch demo</a></p>
+<p align="center"><a href="https://zhibul-alexander.github.io/youngBerries/">Watch demo</a></p>
 
   <ol>
     <li>
@@ -23,7 +23,6 @@
     <li><a href="#acknowledgment">Acknowledgment</a></li>
     
   </ol>
-
 
 ## About the project
 
